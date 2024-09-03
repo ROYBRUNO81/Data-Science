@@ -1,5 +1,6 @@
 ## **1. Clustering Antarctic Penguin Species**
 ![Penguin Image](Clustering_Antarctic_Penguin_Species/iter_pemguins.jpg)
+
 This project aims to support researchers in identifying different species of penguins in Antarctica using K-means clustering. The dataset, derived from Dr. Kristen Gorman and the Palmer Station LTER, contains measurements such as culmen length, culmen depth, flipper length, body mass, and penguin sex. The project involves preprocessing the data by scaling it using `StandardScaler`, transforming categorical variables into dummy variables, and then applying the K-means algorithm. The optimal number of clusters is determined using the Elbow Method, and the clusters are visualized to reveal patterns in the dataset. The project was implemented in Python, with libraries like `pandas`, `matplotlib`, and `scikit-learn`.
 
 ## **2. Modeling Car Insurance Claim Outcomes**
